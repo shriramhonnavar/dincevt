@@ -1,0 +1,16 @@
+[
+    {
+        "evName": "Evt 1",
+        "description": "Evt 1 details",
+        "date": "2024-04-20",
+        "address": "Prestige Song of south, Yelenahalli",
+        "evtImage": "ev1.jpg"
+    },
+    {
+        "evName": "Evt 2",
+        "description": "Evt 2 details",
+        "date": "2024-04-20",
+        "address": "Prestige Song of south, Yelenahalli",
+        "evtImage": "ev2.jpg"
+    }
+]
